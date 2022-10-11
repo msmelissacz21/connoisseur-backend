@@ -1,2 +1,4 @@
+venv/
 venv
 my-deployment-package.zip
+.DS_Store
